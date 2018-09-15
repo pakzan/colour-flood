@@ -1,0 +1,77 @@
+E:\visual basic\colour\colour\bin\Debug\colour.exe
+E:\visual basic\colour\colour\bin\Debug\colour.pdb
+E:\visual basic\colour\colour\bin\Debug\colour.xml
+E:\visual basic\colour\colour\obj\Debug\ResolveAssemblyReference.cache
+E:\visual basic\colour\colour\obj\Debug\WindowsApplication1.Form1.resources
+E:\visual basic\colour\colour\obj\Debug\WindowsApplication1.Resources.resources
+E:\visual basic\colour\colour\obj\Debug\colour.vbproj.GenerateResource.Cache
+E:\visual basic\colour\colour\obj\Debug\colour.exe
+E:\visual basic\colour\colour\obj\Debug\colour.xml
+E:\visual basic\colour\colour\obj\Debug\colour.pdb
+F:\visual basic\colour\colour\obj\Debug\colour.exe
+F:\visual basic\colour\colour\obj\Debug\colour.xml
+F:\visual basic\colour\colour\obj\Debug\colour.pdb
+I:\visual basic\colour\colour\obj\Debug\colour.exe
+I:\visual basic\colour\colour\obj\Debug\colour.xml
+I:\visual basic\colour\colour\obj\Debug\colour.pdb
+I:\visual basic\colour\colour\bin\Debug\colour.exe
+I:\visual basic\colour\colour\bin\Debug\colour.pdb
+I:\visual basic\colour\colour\bin\Debug\colour.xml
+I:\visual basic\colour\colour\obj\Debug\ResolveAssemblyReference.cache
+I:\visual basic\colour\colour\obj\Debug\WindowsApplication1.Form1.resources
+I:\visual basic\colour\colour\obj\Debug\WindowsApplication1.Resources.resources
+I:\visual basic\colour\colour\obj\Debug\colour.vbproj.GenerateResource.Cache
+E:\visual basic\colour\colour\obj\Debug\WindowsApplication1.Form2.resources
+I:\visual basic\colour flood\colour\obj\Debug\colour.xml
+I:\visual basic\colour flood\colour\obj\Debug\colour.pdb
+I:\visual basic\colour flood\colour\bin\Debug\colour.exe
+I:\visual basic\colour flood\colour\bin\Debug\colour.pdb
+I:\visual basic\colour flood\colour\bin\Debug\colour.xml
+I:\visual basic\colour flood\colour\obj\Debug\ResolveAssemblyReference.cache
+I:\visual basic\colour flood\colour\obj\Debug\WindowsApplication1.Form1.resources
+I:\visual basic\colour flood\colour\obj\Debug\WindowsApplication1.Form2.resources
+I:\visual basic\colour flood\colour\obj\Debug\WindowsApplication1.Resources.resources
+I:\visual basic\colour flood\colour\obj\Debug\colour.vbproj.GenerateResource.Cache
+I:\visual basic\colour flood\colour\obj\Debug\colour.exe
+G:\visual basic\colour flood\colour\obj\Debug\colour.exe
+G:\visual basic\colour flood\colour\obj\Debug\colour.xml
+G:\visual basic\colour flood\colour\obj\Debug\colour.pdb
+E:\visual basic\colour flood\colour\obj\Debug\colour.exe
+E:\visual basic\colour flood\colour\obj\Debug\colour.xml
+E:\visual basic\colour flood\colour\obj\Debug\colour.pdb
+E:\visual basic\colour flood\colour\bin\Debug\colour.exe
+E:\visual basic\colour flood\colour\bin\Debug\colour.pdb
+E:\visual basic\colour flood\colour\bin\Debug\colour.xml
+E:\visual basic\colour flood\colour\obj\Debug\ResolveAssemblyReference.cache
+E:\visual basic\colour flood\colour\obj\Debug\WindowsApplication1.Form1.resources
+E:\visual basic\colour flood\colour\obj\Debug\WindowsApplication1.Form2.resources
+E:\visual basic\colour flood\colour\obj\Debug\WindowsApplication1.Resources.resources
+E:\visual basic\colour flood\colour\obj\Debug\colour.vbproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\colour flood\colour\bin\Debug\colour.exe.config
+C:\Users\Dell\Desktop\colour flood\colour\obj\Debug\colour.xml
+C:\Users\Dell\Desktop\colour flood\colour\obj\Debug\colour.pdb
+C:\Users\Dell\Desktop\colour flood\colour\bin\Debug\colour.exe
+C:\Users\Dell\Desktop\colour flood\colour\bin\Debug\colour.pdb
+C:\Users\Dell\Desktop\colour flood\colour\bin\Debug\colour.xml
+C:\Users\Dell\Desktop\colour flood\colour\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Dell\Desktop\colour flood\colour\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\Dell\Desktop\colour flood\colour\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dell\Desktop\colour flood\colour\obj\Debug\colour.vbproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\colour flood\colour\obj\Debug\colour.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\colour flood\colour\bin\Debug\colour.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\colour.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\colour.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\colour.pdb
+C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\bin\Debug\colour.exe.config
+C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\colour.exe
+C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\colour.xml
+C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\colour.pdb
+C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\bin\Debug\colour.exe
+C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\bin\Debug\colour.pdb
+C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\bin\Debug\colour.xml
+C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\colour.vbprojResolveAssemblyReference.cache
+C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\colour.vbproj.GenerateResource.Cache
+C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\colour.vbproj.CoreCompileInputs.cache
