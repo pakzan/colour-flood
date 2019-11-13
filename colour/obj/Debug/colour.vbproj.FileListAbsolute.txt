@@ -69,9 +69,9 @@ C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug
 C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\bin\Debug\colour.exe
 C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\bin\Debug\colour.pdb
 C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\bin\Debug\colour.xml
-C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\colour.vbprojResolveAssemblyReference.cache
 C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\WindowsApplication1.Form1.resources
 C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\WindowsApplication1.Form2.resources
 C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\WindowsApplication1.Resources.resources
 C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\colour.vbproj.GenerateResource.Cache
 C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\colour.vbproj.CoreCompileInputs.cache
+C:\Users\tpz\Documents\Visual Studio 2015\Projects\colour flood\colour\obj\Debug\colour.vbprojAssemblyReference.cache
